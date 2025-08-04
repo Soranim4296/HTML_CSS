@@ -1,10 +1,10 @@
 >/HTML 5 E ELEMENTOS/<
 
-     A criação de códigos HTML ou CSS é similar a um documento de texto, mas este tem 
-elementos de auxílio visual e inclusive de interface. Barras de menús, formatação, 
-submenús de título, fonte, etc.
+     A criação de códigos HTML ou CSS é similar a um documento de texto, mas este tem elementos de auxílio visual e inclusive de interface. Barras de menús, formatação, de título, fonte, etc.
 
-Editor de texto ex: Docs do Google, Word, bloco de notas, etc.
+     Editores de texto ex: Docs do Google, Word, bloco de notas, etc.
+
+     O mais recomendado é codar a partir de ambientes ou IDEs, os famosos editores de código. Um editor muito bom para codar HTML e CSS é o Visual Studio Code, também conhecido como VS Code.
 
 
 
@@ -16,15 +16,13 @@ Editor de texto ex: Docs do Google, Word, bloco de notas, etc.
 
 >/Acrescentar um título/tag HTML 5/<
 
-     No caso do HTML, utilizaremos as *tags para títulos*. Elas serão responsáveis por 
-informar quais trechos serão títulos, por exemplo. Analise o que se encaixa melhor em 
-cada contexto. Não adianta simplesmente decorar.
+     No caso do HTML, utilizaremos as *tags para títulos*. Elas serão responsáveis por informar quais trechos serão títulos, por exemplo. Analise o que se encaixa melhor em cada contexto. Não adianta simplesmente decorar, são muitas e dependem de uma questão de prática para analisar qual se encaixa melhor em cada contexto.
 
 
 
 >/Acrescentar uma extensão do HTML 5/<
 
-A extensão dá um nome para esse documento.
+     A extensão dá um nome para esse documento.
 
 
 
